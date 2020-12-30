@@ -1,6 +1,6 @@
-# How To Start Rust Programming Language for High Performance
+# How To Start Rust Programming Language for High Performance using Intellij IDEA on Windows 10
 
-*Last updated: 12/30/2020*
+*Last updated: 12/31/2020*
 
 *A Korean translation of this tutorial is located in the [translate folder.](https://github.com/gh-BumsooKim/Rust-Systems-Programming-Language-Tutorial-Windows-10/blob/main/translate/README.md)*
 
