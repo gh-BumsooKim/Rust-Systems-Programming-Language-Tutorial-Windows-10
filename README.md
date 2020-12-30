@@ -2,6 +2,9 @@
 
 *Last updated: 12/30/2020*
 
+*A Korean translation of this tutorial is located in the [translate folder.](https://github.com/gh-BumsooKim/Rust-Systems-Programming-Language-Tutorial-Windows-10/blob/main/translate/README.md)*
+
+
 > ### ***<p align="center"> Rust is a “systems programming language that focuses on <br>speed, memory safety, and parallelism”. </p>***
 
 IDE : Intellij Rust Plugin in Intellij IDEA.
