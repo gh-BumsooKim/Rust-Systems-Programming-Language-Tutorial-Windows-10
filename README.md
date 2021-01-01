@@ -18,6 +18,4 @@ Rust is Systems Programming Language designed for performance and safety, especi
 - install Intellij IDEA from https://www.jetbrains.com/idea/download/
 - install Rust in Intellij IDEA Plugins in `Settings / Preferences | Plugins | Marketplace` in IDE
 
-<br> <br>
-
  <p align="center"><img src="https://github.com/gh-BumsooKim/Rust-Systems-Programming-Language-Tutorial-Windows-10/blob/main/docs/intellij-rust-plugin.png" width="80%" height="80%"></img></p>  
