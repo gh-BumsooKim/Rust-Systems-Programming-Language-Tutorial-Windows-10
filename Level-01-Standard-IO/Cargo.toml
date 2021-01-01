@@ -1,5 +1,5 @@
 [package]
-name = "RUST01"
+name = "Level-01-Standard-IO"
 version = "0.1.0"
 authors = ["Bumsoo Kim <cmng828rhuypqq@cau.ac.kr>"]
 edition = "2018"
