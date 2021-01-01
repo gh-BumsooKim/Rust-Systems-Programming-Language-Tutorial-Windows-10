@@ -17,6 +17,6 @@
 - Intellij Rust Version : 0.3.138.3572-203
 
 ## Installation
-- install Intellij IDE from https://www.jetbrains.com/idea/download/
+- install Intellij IDEA from https://www.jetbrains.com/idea/download/
 - install Rust in Intellij IDEA Plugins in `Settings / Preferences | Plugins | Marketplace` in IDE
 
