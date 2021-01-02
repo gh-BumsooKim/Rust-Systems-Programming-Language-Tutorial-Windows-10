@@ -6,11 +6,8 @@ num_str = str(num)
 answer = list()
 output = [0,0,0,0]
 
-if(len(num_str)!=4):
-    answer = list(num_str.zfill(4))
-else:
-    answer = list(num_str)
-
+answer = list(num_str.zfill(4)) if len(num_str)!=4 else list(num_str)
+    
 input_num = 0
 while True:
     input_num+=1
