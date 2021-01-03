@@ -27,7 +27,7 @@ fn main() {
             Ordering::Equal => {
                 println!("You Win!");
                 break; // if your guess is equal to num, loop break
-            },
+            }
         }
     }
 }
