@@ -30,7 +30,7 @@ while True:
         
     s = str(output[0])+str(output[1])+str(output[2])+str(output[3])
     
-    if(output == [1,1,1,1]):
+    if(s == "1111"):
         print("Result :", s, "with", input_num, "times input")
         break
     else:    
