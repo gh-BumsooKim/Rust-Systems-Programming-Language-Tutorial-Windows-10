@@ -18,15 +18,18 @@ while True:
         int(guess)
     except ValueError as e:
         print("Please Input 4 digits Number such as 0000 with ValueError :",e)
+        continue
+    
+    if(len(guess)!=4):
+        print("Please Input 4 digits Number such as 0000 with IndexError")
+        continue
     
     try:
         for i in range(len(answer)):
-            if(answer[i]==mynum[i]):
-                output[i] = 1
-            else:
-                output[i] = 0
+            output[i] = 1 if(answer[i]==mynum[i]) else 0
     except IndexError as e:
         print("Please Input 4 digits Number such as 0000 with IndexError :",e)
+        continue
         
     s = str(output[0])+str(output[1])+str(output[2])+str(output[3])
     
@@ -35,4 +38,3 @@ while True:
         break
     else:    
         print("Result :", s)
-        
